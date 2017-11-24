@@ -48,5 +48,8 @@
   "engines": {
     "node": ">= 4"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
 }
